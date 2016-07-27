@@ -32,7 +32,6 @@ function sonorous_theme_setup() {
 	add_theme_support( 'hybrid-core-sidebars', array( 'primary' ) );
 
 	/* Add framework features */
-	add_theme_support( 'hybrid-core-widgets' );
 	add_theme_support( 'hybrid-core-shortcodes' );
 	add_theme_support( 'hybrid-core-template-hierarchy' );
 	add_theme_support( 'hybrid-core-theme-settings', array( 'footer' ) );

@@ -17,6 +17,7 @@ This theme can be installed under "Appearance" > "Themes".  Click on the "Add Ne
 
 * Update: Use newer WordPress functions for title tags
 * Update: Remove unused font files
+* Update: Removed widgets http://themehybrid.com/weblog/where-oh-where-have-my-widgets-gone
 
 0.2.1 (12.18.14)
 ===
